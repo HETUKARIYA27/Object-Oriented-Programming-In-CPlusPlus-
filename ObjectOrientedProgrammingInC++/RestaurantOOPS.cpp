@@ -36,7 +36,6 @@ class restaurant{
         pforburger=pforburger*a*Bprice;
         totalprice=totalprice+pforburger;
         cout<<"\nTHE PRICE OF ORDERED BURGERS IS:"<<pforburger;
-
     }   
     void samo(){
         cout<<"\nSELECT QUANTITY:";
