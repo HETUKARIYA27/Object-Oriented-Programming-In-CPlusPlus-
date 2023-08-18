@@ -55,7 +55,7 @@ class restaurant{
         cout<<"\nSELECT QUANTITY:";
         cin>>d;
         pforpizza=pforpizza*d*Piprice;
-        totalprice=totalprice+pforsandwich;
+        totalprice=totalprice+pforpizza;
         cout<<"\nTHE PRICE OF THE ORDERED PIZZAS IS:"<<pforpizza;        
     }
     void te(){
