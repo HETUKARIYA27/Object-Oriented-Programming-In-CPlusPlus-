@@ -120,7 +120,7 @@ int  main(){
         cout<<"\nENTER 8 TO VIEW TOTAL AMOUNT OF ITEMS BOUGHT";
         cout<<"\nENTER 9 to VIEW TOTAL BILL WITHOUT GST";
         cout<<"\nENTER 10 TO VIEW TOTAL BILL WITH GST";
-        cout<<"\nENTER 11 TO EXIT";
+        cout<<"\nENTER 11 TO EXIT\n";
         cin>>ch;
         if(ch==0){
             r1.menu();
